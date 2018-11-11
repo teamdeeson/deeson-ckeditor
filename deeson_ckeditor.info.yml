@@ -1,0 +1,7 @@
+name: 'Deeson CKEditor'
+description: 'CKEditor plugin definitions'
+package: 'Deeson'
+type: 'module'
+core: '8.x'
+dependencies:
+  - 'ckeditor'
